@@ -1,4 +1,4 @@
-# 🤖 Auto Download Script
+# 🤖 Themed Password Generator
 
 TBD
 
