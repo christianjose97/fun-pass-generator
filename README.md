@@ -1,6 +1,6 @@
 # 🤖 Themed Password Generator
 
-TBD
+This project aims to make your password creation simpler and more fun
 
 ## 📦 Tech Stack
 
