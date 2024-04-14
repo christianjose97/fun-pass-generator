@@ -8,7 +8,7 @@ This project aims to make your password creation simpler and more fun
 
 ## 🕹️ Features
 
-TBD 
+creates password!
 
 ## 🖥️ The Process
 
