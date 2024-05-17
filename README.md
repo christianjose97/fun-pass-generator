@@ -8,7 +8,7 @@ This project aims to make your password creation simpler and more fun
 
 ## 🕹️ Features
 
-creates password!
+Creates a cool password of whatever theme you like leveraging the power of ChatGPT API!
 
 ## 🖥️ The Process
 
